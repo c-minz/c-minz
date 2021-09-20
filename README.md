@@ -9,9 +9,10 @@ This publication motivated me to write a [LaTeX-package "causets"](https://githu
 [2] C. Minz, _LaTeX-package 'causets' for drawing causal set (Hasse) diagrams_, CTAN (2020). https://ctan.org/pkg/causets
 
 ### Research interests and further source code developments
-I mean to continue research on causal set theory and the algebraic formulation of quantum field theory (algebraic quantum field theory).
+I conduct research on causal set theory and the algebraic formulation of quantum field theory (algebraic quantum field theory), as there are many open questions in these research fields. I see the connection between both areas with a great potential to study quantum field theory and quantum gravity.
 
-In the [repository with the Python source code](https://github.com/c-minz/Python-causets), I already have some code part developed for a reconstruction of an spacetime embedding and for the generation of a diagram (plot) of a generic causal set.
+As a side-project, I started to developed code for a reconstruction of a spacetime embedding of a generic causal set, which may also be used to draw a diagram (plot) for arbitrary finite causal sets. Some of the source code can already be found in [the Python-causets repository](https://github.com/c-minz/Python-causets).
 
+<br /><br />
 
 How to reach me: christoph(dot)minz[at]gmail(dot)com
