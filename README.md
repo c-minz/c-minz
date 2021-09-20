@@ -1,4 +1,4 @@
-### About me and the repositories
+### About me and about the repositories
 I have finished my PhD projects (conducted at the University of York, UK) in mathematical physics on algebraic field theory for causal sets. Most of my repositories focus on causal set theory, a mathematical framework for research in quantum gravity and discrete models of quantum field theory.
 
 There are modules to create generic causal sets (locally finite, partially ordered sets) or generate them via a Poisson process (sprinkling). I started my first source code developments in [MATLAB](https://github.com/c-minz/MATLAB-causets), but moved to [Python](https://github.com/c-minz/Python-causets) (with mypy typing support) later on. [Some of the MATLAB source code](https://github.com/c-minz/diamondsprinkling) was used to generate the results published in [1]. 
